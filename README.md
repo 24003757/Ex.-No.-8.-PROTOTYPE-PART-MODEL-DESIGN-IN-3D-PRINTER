@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+![WhatsApp Image 2024-12-05 at 2 35 08 PM](https://github.com/user-attachments/assets/341b3fe2-436a-4c37-9d33-62922858d136)# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-05 143947](https://github.com/user-attachments/assets/7c400670-3af0-4457-bcf4-0fb76d426534)
+
+### Name: Vinolia alaina
+### Register Number: 24003757
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
